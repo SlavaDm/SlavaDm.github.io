@@ -20,7 +20,7 @@
     font-family: 'Krub', sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: white;
+    color: #eee;
     /*color: #e0e0e0;*/
     text-shadow: 1px 0.4px 1px #000;
     mix-blend-mode: hard-light;
@@ -31,7 +31,9 @@
 }
 .transcript{
     font-family: 'Krub', sans-serif;
-    color: white;
+    font-weight: 600;
+    font-style: normal;
+    color: #eee;
     /*color: #e0e0e0;*/
     text-shadow: 1px 0.4px 1px #000;
     mix-blend-mode: hard-light;
@@ -42,28 +44,28 @@
 
 .description{
     font-family: 'Krub', sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
-    color: white;
+    color: #eee;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
-    -webkit-text-stroke: 0.1px black;
+    -webkit-text-stroke: 0.2px black;
 }
 
 .ex{
     font-family: 'Krub', sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
-    color: white;
+    color: #eee;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
-    -webkit-text-stroke: 0.1px black;
+    -webkit-text-stroke: 0.2px black;
 }
 
 .layout {
