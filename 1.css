@@ -10,7 +10,7 @@
     font-style: normal;
     src: url(/font/Krub-SemiBold.ttf) format("truetype");
 }
-button{
+button .btn .play-pause{
     outline: none;
 }
 
