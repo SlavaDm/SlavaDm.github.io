@@ -50,7 +50,7 @@
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
-    -webkit-text-stroke: 0.6px black;
+/*     -webkit-text-stroke: 0.6px black; */
 }
 
 .ex{
@@ -63,7 +63,7 @@
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
-    -webkit-text-stroke: 0.6px black;
+/*     -webkit-text-stroke: 0.6px black; */
 }
 
 .layout {
