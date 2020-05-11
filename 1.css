@@ -10,7 +10,10 @@
     font-style: normal;
     src: url(/font/Krub-SemiBold.ttf) format("truetype");
 }
-button{outline: none;}
+button{
+    outline: none;
+}
+
 .layout{
     background-color: rgba(141,175,114,0.8);
     margin-bottom: 60px!important;
@@ -20,7 +23,7 @@ button{outline: none;}
     font-family: 'Krub', sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: #eee;
+    color: white;
     /*color: #e0e0e0;*/
     text-shadow: 1px 0.4px 1px #000;
     mix-blend-mode: hard-light;
@@ -31,7 +34,7 @@ button{outline: none;}
 }
 .transcript{
     font-family: 'Krub', sans-serif;
-    color: #eee;
+    color: white;
     /*color: #e0e0e0;*/
     text-shadow: 1px 0.4px 1px #000;
     mix-blend-mode: hard-light;
@@ -42,7 +45,7 @@ button{outline: none;}
 
 .description{
     font-family: 'Krub', sans-serif;
-    color: #eee;
+    color: white;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
@@ -53,7 +56,7 @@ button{outline: none;}
 
 .ex{
     font-family: 'Krub', sans-serif;
-    color: #eee;
+    color: white;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
