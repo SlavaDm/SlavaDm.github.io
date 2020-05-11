@@ -10,9 +10,6 @@
     font-style: normal;
     src: url(/font/Krub-SemiBold.ttf) format("truetype");
 }
-button{
-    outline: none;
-}
 
 .layout{
     background-color: rgba(141,175,114,0.8);
