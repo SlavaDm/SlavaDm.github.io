@@ -44,7 +44,7 @@ buttom{outline: none;}
     font-family: 'Krub', sans-serif;
     color: #eee;
     /*color: #e0e0e0;*/
-    text-shadow: 1px 0.4px 1px #000;
+    text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
@@ -55,7 +55,7 @@ buttom{outline: none;}
     font-family: 'Krub', sans-serif;
     color: #eee;
     /*color: #e0e0e0;*/
-    text-shadow: 1px 0.4px 1px #000;
+    text-shadow: 0.5px 0.5px 0.5px #000;
     mix-blend-mode: hard-light;
     vertical-align: baseline;
     /*horiz-align: right;*/
