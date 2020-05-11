@@ -42,6 +42,8 @@
 
 .description{
     font-family: 'Krub', sans-serif;
+    font-weight: 700;
+    font-style: normal;
     color: white;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
@@ -53,6 +55,8 @@
 
 .ex{
     font-family: 'Krub', sans-serif;
+    font-weight: 700;
+    font-style: normal;
     color: white;
     /*color: #e0e0e0;*/
     text-shadow: 0.5px 0.5px 0.5px #000;
