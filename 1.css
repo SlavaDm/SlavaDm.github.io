@@ -1,7 +1,7 @@
 
 
 .layout{
-    margin-bottom: 30px!important;
+    margin-bottom: 60px!important;
 }
 
 
@@ -15,11 +15,17 @@
     grid-column-gap: 10px;
     grid-template-areas: "sidebar image";
     margin: 0 auto;
-    -webkit-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
+    /*-webkit-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);*/
+    /*-moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);*/
+    /*box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);*/
+
+
+    box-shadow:   -3px 3px 20px 5px rgba(0,0,0, 0.2);
 }
 
+.image{
+    box-shadow: -2px 0px 8px 2px #000;
+}
 
 .sidebar {
     grid-area: sidebar;
@@ -38,7 +44,12 @@
     min-height: 200px;
 }
 
-
+.image1{
+    background-image: url("1.jpg");
+}
+.image2{
+    background-image: url("2.jpg");
+}
 
 
 
