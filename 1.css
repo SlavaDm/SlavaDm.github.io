@@ -1,17 +1,71 @@
-
+@font-face {
+    font-family: "Krub";
+    font-weight: 700;
+    font-style: normal;
+    src: url(/font/Krub-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Krub";
+    font-weight: 600;
+    font-style: normal;
+    src: url(/font/Krub-SemiBold.ttf) format("truetype");
+}
 
 .layout{
+    background-color: rgba(141,175,114,0.8);
     margin-bottom: 60px!important;
 }
 
+.main_word{
+    font-family: 'Krub', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #eee;
+    /*color: #e0e0e0;*/
+    text-shadow: 1px 0.4px 1px #000;
+    mix-blend-mode: hard-light;
+    vertical-align: baseline;
+    /*horiz-align: right;*/
+    -webkit-text-stroke: 0.6px black;
 
+}
+.transcript{
+    font-family: 'Krub', sans-serif;
+    color: #eee;
+    /*color: #e0e0e0;*/
+    text-shadow: 1px 0.4px 1px #000;
+    mix-blend-mode: hard-light;
+    vertical-align: baseline;
+    /*horiz-align: right;*/
+    -webkit-text-stroke: 0.6px black;
+}
 
+.description{
+    font-family: 'Krub', sans-serif;
+    color: #eee;
+    /*color: #e0e0e0;*/
+    text-shadow: 1px 0.4px 1px #000;
+    mix-blend-mode: hard-light;
+    vertical-align: baseline;
+    /*horiz-align: right;*/
+    -webkit-text-stroke: 0.6px black;
+}
+
+.ex{
+    font-family: 'Krub', sans-serif;
+    color: #eee;
+    /*color: #e0e0e0;*/
+    text-shadow: 1px 0.4px 1px #000;
+    mix-blend-mode: hard-light;
+    vertical-align: baseline;
+    /*horiz-align: right;*/
+    -webkit-text-stroke: 0.6px black;
+}
 
 .layout {
     border-radius: 50px;
     display: grid;
     border: 2px solid black;
-    background-color: white;
     grid-column-gap: 10px;
     grid-template-areas: "sidebar image";
     margin: 0 auto;
@@ -21,6 +75,7 @@
 
 
     box-shadow: -5px 5px 18px 3px rgba(0,0,0, 0.3);
+    /*box-shadow: -2px 0px 8px 2px #000;*/
 }
 
 .image{
