@@ -35,11 +35,6 @@
 }
 
 
-body{
-    background-image: url("6.jpg");
-    width: 100%;
-    height: 100%;
-}
 .layout{
     background-color: rgba(98, 169, 138, 0.8);
     margin-bottom: 60px!important;
