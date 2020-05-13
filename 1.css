@@ -197,52 +197,52 @@
     }
 
 
-/*     .main_word{
-        font-family: 'MPR1C', sans-serif;
-        font-weight: 800;
-        font-style: normal;
-        color: white;
-        /*color: #e0e0e0;*/
-        text-shadow: 1px 0.4px 1px #000;
-        mix-blend-mode: hard-light;
-        vertical-align: baseline;
-        /*horiz-align: right;*/
-        -webkit-text-stroke: 1.2px black;
+    /*.main_word{*/
+    /*    font-family: 'MPR1C', sans-serif;*/
+    /*    font-weight: 800;*/
+    /*    font-style: normal;*/
+    /*    color: white;*/
+    /*    !*color: #e0e0e0;*!*/
+    /*    text-shadow: 1px 0.4px 1px #000;*/
+    /*    mix-blend-mode: hard-light;*/
+    /*    vertical-align: baseline;*/
+    /*    !*horiz-align: right;*!*/
+    /*    -webkit-text-stroke: 1.2px black;*/
 
-    }
-    .transcript{
-        font-family: 'MPR1C', sans-serif;
-        font-weight: 700;
-        color: white;
-        /*color: #e0e0e0;*/
-        text-shadow: 1px 0.4px 1px #000;
-        mix-blend-mode: hard-light;
-        vertical-align: baseline;
-        /*horiz-align: right;*/
-        -webkit-text-stroke: 1px black;
-    }
+    /*}*/
+    /*.transcript{*/
+    /*    font-family: 'MPR1C', sans-serif;*/
+    /*    font-weight: 700;*/
+    /*    color: white;*/
+    /*    !*color: #e0e0e0;*!*/
+    /*    text-shadow: 1px 0.4px 1px #000;*/
+    /*    mix-blend-mode: hard-light;*/
+    /*    vertical-align: baseline;*/
+    /*    !*horiz-align: right;*!*/
+    /*    -webkit-text-stroke: 1px black;*/
+    /*}*/
 
-    .description{
-        font-family: 'MPR1C', sans-serif;
-        font-weight: 700;
-        line-height: 1.2;
-        letter-spacing: -0.5px;
-        font-style: normal;
-        color: white;
-        text-shadow: 0.5px 0.8px 1.3px #000;
-        -webkit-text-stroke: 0.6px black;
-    }
+    /*.description{*/
+    /*    font-family: 'MPR1C', sans-serif;*/
+    /*    font-weight: 700;*/
+    /*    line-height: 1.2;*/
+    /*    letter-spacing: -0.5px;*/
+    /*    font-style: normal;*/
+    /*    color: white;*/
+    /*    text-shadow: 0.5px 0.8px 1.3px #000;*/
+    /*    -webkit-text-stroke: 0.6px black;*/
+    /*}*/
 
-    .ex{
-        font-family: 'MPR1C', sans-serif;
-        font-weight: 700;
-        line-height: 1.2;
-        letter-spacing: -0.5px;
-        font-style: normal;
-        color: white;
-        text-shadow: 0.5px 0.8px 1.3px #000;
-        -webkit-text-stroke: 0.6px black;
-    } */
+    /*.ex{*/
+    /*    font-family: 'MPR1C', sans-serif;*/
+    /*    font-weight: 700;*/
+    /*    line-height: 1.2;*/
+    /*    letter-spacing: -0.5px;*/
+    /*    font-style: normal;*/
+    /*    color: white;*/
+    /*    text-shadow: 0.5px 0.8px 1.3px #000;*/
+    /*    -webkit-text-stroke: 0.6px black;*/
+    /*}*/
 }
 
 button {
